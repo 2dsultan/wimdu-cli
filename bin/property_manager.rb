@@ -1,0 +1,2 @@
+class PropertyManager
+end
